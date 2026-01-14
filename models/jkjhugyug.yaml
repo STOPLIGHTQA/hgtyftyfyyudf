@@ -1,0 +1,9 @@
+title: jkjhugyug
+x-stoplight:
+  id: zpim51dcxgbp3
+type: object
+properties:
+  id:
+    type: string
+    x-stoplight:
+      id: 0ae8gkxnj8zc0
